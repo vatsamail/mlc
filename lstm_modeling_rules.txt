@@ -1,0 +1,11 @@
+Embedding
+InputLayer
+Dropout
+Conv1D
+Maxpooling1D
+LSTM
+Dropout
+Dense
+
+
+use model.summary without wandb
